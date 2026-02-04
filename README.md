@@ -18,7 +18,9 @@
 ### 📜 Certifications & Learning
 - OpenLearn: Introduction to Cyber Security
 - Online cybersecurity & computer science courses  
-➡️ All certificates available here:  
+- TryHackMe - Cybersecurity Hands-on Labs & Learning Paths
+- https://tryhackme.com/p/Bhavikverma
+- ➡️ All certificates available here:
 🔗 https://github.com/Bhavikv114/certificates
 
 ---
